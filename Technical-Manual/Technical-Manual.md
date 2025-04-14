@@ -50,3 +50,5 @@ We also mount the picatinny railing on the top of the stock in order to attach t
 
 ![WifiRifleComplete](https://github.com/Fr3shShr3k/WiFi-Sniper---How-To-Guide/blob/e1d926227065981ccc4211b678de5f6d185f1799/assets/images/finishedprod.jpg)
 
+## Configuring Pi 5 
+
