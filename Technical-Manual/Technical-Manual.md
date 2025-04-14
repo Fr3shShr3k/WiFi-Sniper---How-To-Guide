@@ -17,7 +17,7 @@ In order to cut out the wooden stock an electric saw is required as well as a po
 
 ## Antenna 
 ### Tupavco TP513 Yagi Wireless Antenna
-![dsf]()
+![Yagi](https://github.com/Fr3shShr3k/WiFi-Sniper---How-To-Guide/blob/ebd481694265777bed3a50f01a09e7634009a165/assets/images/TupavcoYagi.jpg)
 
 ## Assembly 
 
