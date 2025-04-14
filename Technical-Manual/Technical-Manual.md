@@ -61,5 +61,5 @@ Note*** From research and testing I've done, the onboard Broadcom wireless chips
 Installing Kismet is also straight forward, simply clone the repo off https://www.kismetwireless.net/git/kismet.git and compile it. I followed along with the installation instructions on Kismet's official documentation here: https://www.kismetwireless.net/docs/readme/installing/linux/
 
 Congratulations! Your Pi should now be set up to start scanning! Simply run 'kismet' in the terminal, and it will open a web service running on localhost:2601 which you will connect to over your internet browser. 
-![Kismetbooting]()
+![Kismetbooting](https://github.com/Fr3shShr3k/WiFi-Sniper---How-To-Guide/blob/a48cf164314de786ce7eba169534978943e02264/assets/images/Screenshot%20from%202025-04-14%2003-25-03.png)
 ![Kismet]()
