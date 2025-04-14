@@ -14,3 +14,5 @@ Kismet has other abilities such as the ability to sniff packets and act as an ID
 save the packet data into a .pcap. There is also the ability to export data of WiFi networks and Bluetooth devices found on kismet and import them into Wigle. https://www.kismetwireless.net/docs/readme/logging/wiglecsv/
 
 ## 🔭 Proper Handling
+
+In order to scan a target device, point the WiFi sniper's antenna in the direction you want to scan, you can use the scope if you want to be extra fancy with it:) Remember that the antenna is directional so pointing the antenna in a different direction from your target may yield different results.
