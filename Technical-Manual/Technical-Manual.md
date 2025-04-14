@@ -20,4 +20,4 @@ In order to cut out the wooden stock an electric saw is required as well as a po
 First, you want to start with making a stock that will hold all of the components the WiFi sniper will use. Although not completely necessary to have a functioning system, the coolness factor of having a "gun" that you can hold and point at where you want to scan WiFi networks makes it worth it. 
 
 
-I recommend basing the design of the stock off a prexisting gun stock and tracing out the outline on the 1x4 of where you want to cut out/shape. (I traced out an airsoft AK I happened to have had and it ended up working great). 
+I recommend basing the design of the stock off a prexisting gun stock and tracing out the outline on the 1x4 of where you want to cut out/shape. (I traced out an airsoft AK I happened to have and it ended up working great). 
