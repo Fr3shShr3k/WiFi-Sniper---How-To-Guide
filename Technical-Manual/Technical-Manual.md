@@ -26,7 +26,7 @@ Although not the highest quality Yagi antenna, it gets the job done for long-dis
 ### Raspberry Pi 5
 ![Pi5](https://github.com/Fr3shShr3k/WiFi-Sniper---How-To-Guide/blob/9f59b038df7b430eb68764c86c08dc3283c858b5/assets/images/Pi5.jpg)
 
-Using a Pi5 provides some of the best hardware availalbe for a SBC at the time of writing this as well as support for WiFi 802.11ac and Bluetooth 5.0 and BLE. Theoretically the Yagi antenna would be able to transieve data over Bluetooth at 2.4GHz as well as it can over WiFi. 
+Using a Pi5 provides some of the best hardware availalbe for a SBC at the time of writing this on top of support for WiFi 802.11ac and Bluetooth 5.0 and BLE. Theoretically the Yagi antenna would be able to transieve data over Bluetooth at 2.4GHz as well as it can over WiFi. 
 ## Assembly 
 
 ### Creating Stock
