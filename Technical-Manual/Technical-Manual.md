@@ -13,7 +13,7 @@
 In order to cut out the wooden stock an electric saw is required as well as a polishing sandpaper tool (for a smoother finished product). 
 
 ## Technical Diagram
-<picture>https://github.com/Fr3shShr3k/WiFi-Sniper---How-To-Guide/blob/main/Technical-Manual/AkStockDesign.jpg</picture>
+
 
 ## Assembly 
 
@@ -21,4 +21,4 @@ First, you want to start with making a stock that will hold all of the component
 
 
 I recommend basing the design of the stock off a prexisting gun stock and tracing out the outline on the 1x4 of where you want to cut out/shape. (I traced out an airsoft AK47 I happened to have and it ended up working great). Don't forget to also plan out where you want to place all the components. 
-
+![test](https://github.com/Fr3shShr3k/WiFi-Sniper---How-To-Guide/blob/ee18129fd7fb8539477c5e4bf42193e72e23c232/Technical-Manual/AkStockDesign.jpg)
