@@ -10,6 +10,8 @@
 + UUQ 3-9x40 Rifle Scope - $30
 + 17 Slot MLock Adluminum Picatinny Rails - $15
 
+In order to cut out the wooden stock an electric saw is required as well as a polishing sandpaper tool (For a smoother finished product). 
+
 ## Technical Diagram
 
 
