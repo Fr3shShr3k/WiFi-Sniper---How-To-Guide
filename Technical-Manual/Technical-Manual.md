@@ -55,6 +55,6 @@ After you install any debian based distro onto the Pi 5, we need to make sure th
 ![AlfaCardUSB]()
 
 Note*** From research and testing I've done, the onboard Broadcom wireless chipset on Rasperry Pi's are not compatible to run with the Airmon suite of network recon tools however works with Kismet just fine. 
-Installing Kismet is also straight forward, simply clone the repo off https://www.kismetwireless.net/git/kismet.git and compile the clonsed repo. I followed along with the installation instructions on Kismet's official documentation here: https://www.kismetwireless.net/docs/readme/installing/linux/
+Installing Kismet is also straight forward, simply clone the repo off https://www.kismetwireless.net/git/kismet.git and compile it. I followed along with the installation instructions on Kismet's official documentation here: https://www.kismetwireless.net/docs/readme/installing/linux/
 
 Congratulations! Your Pi should now be set up to start scanning! 
