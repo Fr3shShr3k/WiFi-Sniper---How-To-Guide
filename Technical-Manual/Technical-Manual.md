@@ -15,7 +15,7 @@ In order to cut out the wooden stock an electric saw is required as well as a po
 
 ## Technical Diagram
 
-![Diagram](https://github.com/Fr3shShr3k/WiFi-Sniper---How-To-Guide/blob/36712c36f4bb1529ae8a1c081276b0e2f9147618/assets/images/WiFiSniperDiagram.drawio)
+![Diagram](https://github.com/Fr3shShr3k/WiFi-Sniper---How-To-Guide/blob/f286779c05d614fda8a7b9be000bd448b01bb34e/assets/images/WifiSniperDiagram.drawio.png)
 ## Directional Antenna 
 ### Tupavco TP513 Yagi Wireless Antenna
 ![Yagi](https://github.com/Fr3shShr3k/WiFi-Sniper---How-To-Guide/blob/ebd481694265777bed3a50f01a09e7634009a165/assets/images/TupavcoYagi.jpg)
