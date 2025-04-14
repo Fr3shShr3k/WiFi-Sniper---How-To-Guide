@@ -15,6 +15,8 @@ In order to cut out the wooden stock an electric saw is required as well as a po
 
 ## Technical Diagram
 
+## Antenna 
+
 
 ## Assembly 
 
