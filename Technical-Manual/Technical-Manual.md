@@ -13,7 +13,7 @@
 In order to cut out the wooden stock an electric saw is required as well as a polishing sandpaper tool (for a smoother finished product). 
 
 ## Technical Diagram
-/Technical-Manual/AkStockDesign.jpg
+<picture>https://github.com/Fr3shShr3k/WiFi-Sniper---How-To-Guide/blob/main/Technical-Manual/AkStockDesign.jpg</picture>
 
 ## Assembly 
 
