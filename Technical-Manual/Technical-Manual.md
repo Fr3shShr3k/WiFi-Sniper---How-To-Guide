@@ -16,14 +16,14 @@ In order to cut out the wooden stock an electric saw is required as well as a po
 ## Technical Diagram
 
 ![Diagram](https://github.com/Fr3shShr3k/WiFi-Sniper---How-To-Guide/blob/1f50a49ccd2e0ca56c4c5e3fd2158f88cb9bfdbb/assets/images/WifiSniperDiagram.drawio%20(1).png)
-## Directional Antenna 
+## 📡 Directional Antenna 
 ### Tupavco TP513 Yagi Wireless Antenna
 ![Yagi](https://github.com/Fr3shShr3k/WiFi-Sniper---How-To-Guide/blob/ebd481694265777bed3a50f01a09e7634009a165/assets/images/TupavcoYagi.jpg)
 
 Although not the highest quality Yagi antenna, it gets the job done for long-distance scanning of WiFi networks. The antenna is rated for 2.4GHz at 17dBi and uses a RP-SMA male connector, meaning that an adapter is neaded in order to plug the antenna into the ALFA wireless adapter card. 
 
 
-## Single-Board Computer (SBC) 
+## 🖥 Single-Board Computer (SBC) 
 ### Raspberry Pi 5
 ![Pi5](https://github.com/Fr3shShr3k/WiFi-Sniper---How-To-Guide/blob/9f59b038df7b430eb68764c86c08dc3283c858b5/assets/images/Pi5.jpg)
 
