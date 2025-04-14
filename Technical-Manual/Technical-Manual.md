@@ -13,7 +13,7 @@
 
 In order to cut out the wooden stock an electric saw is required as well as a polishing sandpaper tool (for a smoother finished product). 
 
-## Technical Diagram
+## 📄 Technical Diagram
 
 ![Diagram](https://github.com/Fr3shShr3k/WiFi-Sniper---How-To-Guide/blob/1f50a49ccd2e0ca56c4c5e3fd2158f88cb9bfdbb/assets/images/WifiSniperDiagram.drawio%20(1).png)
 ## 📡 Directional Antenna 
