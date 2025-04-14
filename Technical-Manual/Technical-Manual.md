@@ -21,6 +21,12 @@ In order to cut out the wooden stock an electric saw is required as well as a po
 
 Although not the highest quality Yagi antenna, it gets the job done for long-distance scanning of WiFi networks. The antenna is rated for 2.4GHz at 17dBi and uses a RP-SMA male connector, meaning that an adapter is neaded in order to plug the antenna into the ALFA wireless adapter card. 
 
+
+## Single-Board Computer (SBC) 
+### Raspberry Pi 5
+![Pi5]()
+
+Using a Pi5 provides some of the best hardware availalbe for a SBC at the time of writing this as well as support for WiFi 802.11ac and Bluetooth 5.0 and BLE. Theoretically the Yagi antenna would be able to transieve data over Bluetooth at 2.4GHz as well as it can over WiFi. 
 ## Assembly 
 
 ### Creating Stock
