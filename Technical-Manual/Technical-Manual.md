@@ -28,7 +28,7 @@ Although not the highest quality Yagi antenna, it gets the job done for long-dis
 ![Pi5](https://github.com/Fr3shShr3k/WiFi-Sniper---How-To-Guide/blob/9f59b038df7b430eb68764c86c08dc3283c858b5/assets/images/Pi5.jpg)
 
 Using a Pi5 provides some of the best hardware availalbe for a SBC at the time of writing this on top of support for WiFi 802.11ac, Bluetooth 5.0, and BLE. Theoretically the Yagi antenna would be able to transieve data over Bluetooth at 2.4GHz as well as it can over WiFi. 
-## Assembly 
+## 🛠 Assembly 
 
 ### Creating Stock
 First, you want to start with making a stock that will hold all of the components the WiFi sniper will use. Although not completely necessary to have a functioning system, the coolness factor of having a "gun" that you can hold and point at where you want to scan WiFi networks as well as the looks you get from people more than makes it worth it. 
@@ -50,7 +50,7 @@ We also mount the picatinny railing on the top of the stock in order to attach t
 
 ![WifiRifleComplete](https://github.com/Fr3shShr3k/WiFi-Sniper---How-To-Guide/blob/e1d926227065981ccc4211b678de5f6d185f1799/assets/images/finishedprod.jpg)
 
-## Configuring Pi 5 
+## ⌨️ Configuring Pi 5 
 After you install any debian based distro onto the Pi 5, we need to make sure that we install the necessary driver for the Alfa card in order for it to function with linux. When I had set this up originally, Ubuntu did not detect the card as a USB device which pointed to me that I needed to install the right drivers. (You can find this out using lsusb). After git cloning the drivers for our model of Alfa card from https://github.com/aircrack-ng/rtl8812au/, cd into the rtl8812au directory and make the dkms_install file. Then restart the network manager and reboot the device. After this, check and see if the Alfa card is properly being detected now using modprobe or lsusb commands and you should see the device pop up. The last step in this is to disable the onboard Broadcom wireless card already on the Pi so that only the wireless interface for the Alfa card is used when we run Kismet. We can disable this by blacklisting the broadcom drivers in /etc/modprobe.d/blacklist.conf then rebooting 1 last time. 
 
 ![AlfaCardUSB](https://github.com/Fr3shShr3k/WiFi-Sniper---How-To-Guide/blob/6395bd523949ac6c75fc8dd7f47c69ed1959b08a/assets/images/Screenshot%20from%202025-04-14%2002-38-53.png)
