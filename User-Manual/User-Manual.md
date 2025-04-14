@@ -11,6 +11,6 @@ We should now start seeing Wifi networks start coming in and being scanned on Ki
 
 If you exit kismet, all networks found are saved to a csv in the users home directory under example file names: Kismet-2025-04-13-13-42-05/
 Kismet has other abilities such as the ability to sniff packets and act as an IDS which can detect whether there are other active network sniffing programs on the same connected network, which it can
-save the packet data into a .pcap. There is also the ability to export data of WiFi networks and Bluetooth devices found and be able to import them onto a geograhpic map such as Wigle. https://www.kismetwireless.net/docs/readme/logging/wiglecsv/
+save the packet data into a .pcap. There is also the ability to export data of WiFi networks and Bluetooth devices found on kismet and import them into Wigle. https://www.kismetwireless.net/docs/readme/logging/wiglecsv/
 
 ## 🔭 Proper Handling
