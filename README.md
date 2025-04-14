@@ -17,4 +17,4 @@ The goal of WiFi Sniper is to overcome traditional range limitations by combinin
 + Automated logging of SSIDs, BSSIDs, channels, and encryption types
 + Compatibility with common tools like airodump-ng, kismet, and bettercap
 
-Link to the sample section: [About wifi](#About WiFi Snipers)
+Link to the sample section: [Link Text](#About WiFi Snipers)
