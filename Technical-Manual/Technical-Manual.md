@@ -45,6 +45,7 @@ Now we move onto mounting components, this part is pretty straight-forward as al
 
 ![ZiptieholdingCable](https://github.com/Fr3shShr3k/WiFi-Sniper---How-To-Guide/blob/64c0674c36f1408faa104cc21f8c53182b26df36/assets/images/20250414_004224.jpg)
 
-We also mount the picatinny railing on the top of the stock in order to attack the rifle scope on smoothly, again not necessary but for aesthetics. I picked up a cheap camera stand from a thrift store as well which ended up being a nice stand for the Wifi Sniper. This is what the finished product should look like after assembly.
+We also mount the picatinny railing on the top of the stock in order to attack the rifle scope on smoothly, again not necessary but for aesthetics. I picked up a cheap camera stand from a thrift store as well which ended up being a nice stand for the Wifi Sniper. This is what the finished product should look like after assembly. The Pi5 has been mounted on the other side of the rifle not shown.
+
 ![WifiRifleComplete](https://github.com/Fr3shShr3k/WiFi-Sniper---How-To-Guide/blob/e1d926227065981ccc4211b678de5f6d185f1799/assets/images/finishedprod.jpg)
 
