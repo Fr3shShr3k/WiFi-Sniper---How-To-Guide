@@ -19,7 +19,7 @@ In order to cut out the wooden stock an electric saw is required as well as a po
 ### Tupavco TP513 Yagi Wireless Antenna
 ![Yagi](https://github.com/Fr3shShr3k/WiFi-Sniper---How-To-Guide/blob/ebd481694265777bed3a50f01a09e7634009a165/assets/images/TupavcoYagi.jpg)
 
-Although not the best quality Yagi antenna, it gets the job done for long-distance scanning of WiFi networks. The antenna is rated for 2.4GHz at 17dBi and uses a RP-SMA male connector, meaning that an adapter is neaded in order to plug the antenna into the ALFA wireless adapter card. 
+Although not the highest quality Yagi antenna, it gets the job done for long-distance scanning of WiFi networks. The antenna is rated for 2.4GHz at 17dBi and uses a RP-SMA male connector, meaning that an adapter is neaded in order to plug the antenna into the ALFA wireless adapter card. 
 
 ## Assembly 
 
