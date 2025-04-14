@@ -30,7 +30,7 @@ I recommend basing the design of the stock off a prexisting gun stock and tracin
 
 Also important not to forget to plan out where you want to place all the components. I ended up attaching a laser sight I also happened to have laying around because why not.  
 
-![PlanningComponentPlacement](https://github.com/Fr3shShr3k/WiFi-Sniper---How-To-Guide/blob/c1cf53596de6f63b4161f6d3bf3def7100807e4f/Technical-Manual/WifiSniper_Components.jpg)
+![PlanningComponentPlacement](https://github.com/Fr3shShr3k/WiFi-Sniper---How-To-Guide/blob/1f409d3b568f9adaa2a256e2a30852c40965386a/assets/images/WifiSniper_Components.jpg)
 ### Attaching components
 Now we move onto mounting components, this part is pretty straight-forward as all we need to do is screw the yagi antenna onto the end of the stock we made and secure it with the washers and screws that came with the antenna. I recommend using velcro tape to hold the Alfa Card and Pi 5 this way they can be detatched at convienence. Also be sure to use the N Type to RP-SMA adapter to connect the ALFA card and Yagi. I ended up drilling a small hole into part of the end of the Yagi so that I could attach a ziptie to hold down the coax cable. 
 
