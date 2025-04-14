@@ -1,7 +1,7 @@
 # WiFi Sniper Technical Manual 
 
 
-## Bill of Materials
+## 📜 Bill of Materials
 + 1/4 8ft Lumber - $3
 + Tupavco TP513 Yagi WiFi Antenna - $38
 + ALFA AWUS036ACH - $59
