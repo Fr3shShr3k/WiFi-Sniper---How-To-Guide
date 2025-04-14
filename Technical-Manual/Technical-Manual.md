@@ -26,7 +26,7 @@ I recommend basing the design of the stock off a prexisting gun stock and tracin
 
 ![StockDesign](https://github.com/Fr3shShr3k/WiFi-Sniper---How-To-Guide/blob/ee18129fd7fb8539477c5e4bf42193e72e23c232/Technical-Manual/AkStockDesign.jpg)
 
-Also important not to forget to plan out where you want to place all the components. 
+Also important not to forget to plan out where you want to place all the components. I ended up attaching a laser sight I happened to also have laying around because why not.  
 
 ![PlanningComponentPlacement](https://github.com/Fr3shShr3k/WiFi-Sniper---How-To-Guide/blob/c1cf53596de6f63b4161f6d3bf3def7100807e4f/Technical-Manual/WifiSniper_Components.jpg)
 ### Attaching components
