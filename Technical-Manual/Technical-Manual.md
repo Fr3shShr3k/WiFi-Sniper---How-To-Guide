@@ -61,3 +61,7 @@ Note*** From research and testing I've done, the onboard Broadcom wireless chips
 Installing Kismet is also straight forward, simply clone the repo off https://www.kismetwireless.net/git/kismet.git and compile it. I followed along with the installation instructions on Kismet's official documentation here: https://www.kismetwireless.net/docs/readme/installing/linux/
 
 Congratulations! Your Pi should now be set up to start scanning! Please refer to the user manual to operate the WiFi Sniper.
+
+
+From additional research I've done, in order to expand the scan data coming in to include devices communicating over Bluetooth, using an external Bluetooth card that has an antenna port would get the job done. 
+https://www.amazon.com/Bluetooth-Wireless-Headphones-Compatible-Windows11/dp/B0D92C4YX6/ref=sr_1_3?crid=&th=1
